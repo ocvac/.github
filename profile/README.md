@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="156"/>
+<img src="./logo.png" align="left" width="164"/>
 
 ### `Ocvac`
 
